@@ -38,13 +38,9 @@ Vous faîtes les mêmes étapes que côté serveur, vous installer les dépendan
 
 # Déploiement
 
-Enfin, pour déploiyer votre application, vous pouvez utiliser des VPS ou tout autre services permettant l'hebergement de projet.
-
-Mais, si vous preferez le self-host, dans ce cas continuer à lire.
-
 Première étape avant de commancer, il vous faut un nom de domaine. Si vous ne voulez pas payer un nom de domaine, vous pouvez très bien en avoir un gratuitement avec <a href="https://www.noip.com/" target="_blank">No-IP</a>. C'est simple, rapide et efficace.
 
-Esnuite, vous allez premièrement installer `nginx`, nous allons faire du reverse-proxy, amener une requete sur votre domaine à votre lien ou est déploiyé votre projet en local.
+Ensuite, vous allez premièrement installer `nginx`, nous allons faire du reverse-proxy, amener une requete sur votre domaine à votre lien ou est déploiyé votre projet en local.
 
 Pour ça, faite `sudo apt-get install nginx` sur votre serveur.
 
