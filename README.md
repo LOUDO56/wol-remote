@@ -76,3 +76,7 @@ server {
 ```
 
 Enfin, enrengistrer et relancer nginx avec `sudo systemctl restart nginx`. Et votre API fonctionne!
+
+# Site Web
+
+Enfin, pour le site web, vous pouvez l'heberger chez vous. Sinon, gratuitement avec Vercel ou Github Page.
